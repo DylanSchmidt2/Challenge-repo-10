@@ -1,4 +1,4 @@
-# Team Progile Generator !
+# Team Profile Generator !
 
 This challenge was given by _The University of Minnesota Bootcamp_ 
 
