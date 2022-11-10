@@ -122,5 +122,4 @@ ${employeeCards}
 </html>`
 };
 
-
 module.exports = generateHTML;
