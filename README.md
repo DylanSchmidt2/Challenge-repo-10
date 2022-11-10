@@ -28,7 +28,7 @@ Users can fill out important employee imformation that gets logged and generated
 
 
 ### Thanks to:
-* (TA) Akon Abizary
+* (TA) Akon Abazary
 * Richard Martin
 * Parker Thompson
 * Janelle Cikanek
