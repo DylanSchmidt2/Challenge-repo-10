@@ -19,19 +19,21 @@ run
  ###### Once the user completes the questions and fills out required fields, an HTML doc will be generated in the folder 'dist'
 
     
-### Bugs
+### Bugs/Drawbacks
 
-* 
+* Basic template styling
+* Only 2 enployee positions
+* Office Number for manager not working atm
 
 ### Extra add-ons
 
 ###### I enjoy adding quality of life (qol) functions to assignments, time permitting. Unfortunately, I didn't have time to bring them to life on this assignment.
 
 ### Final thoughts
-I liked this challenge, relitevely easy to start since we just did a similar README.md generator last week. Overall, things went smoothly starting until I started testing, I am just starting to learn testing this week and not fully confident in my skills (hence the help on code). Very simple program that generates that HTML doc with the info inputted. It's sleek and very fun to build!
+I liked this challenge, relitevely easy to start since we just did a similar README.md generator last week. Initially, things were moving well, until I started doing my tests. I am just starting to learn testing this week and not fully confident in my skills (hence the help on code). Very simple program that generates an HTML doc with the info inputted. It's sleek and very fun to build!
 
 ###### Biggest struggle
-
+Testing, by far, testing. I had some really great conversations with classmates and friends as well as a TA. The help I recieved defintely had a direct impact on my challenge. Learning how testing works and specifically, the mindset you need to be in while writing it, was new to me and didn't adapt as fast.
 
 
 ### Screen Capture:
