@@ -21,6 +21,7 @@ run
     
 ### Bugs/Drawbacks
 
+* Have not passed all tests
 * Basic template styling
 * Only 2 enployee positions
 * Office Number for manager not working atm
@@ -38,6 +39,7 @@ Testing, by far, testing. I had some really great conversations with classmates 
 
 ### Screen Capture:
 
+https://user-images.githubusercontent.com/109780961/201209748-7c1cdfde-7d9c-4feb-8c5a-9083cfd8d64b.mp4
 
 ### Thanks to:
 * (TA) Akon Abazary
