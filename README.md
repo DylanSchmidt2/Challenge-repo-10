@@ -23,24 +23,26 @@ To initiate Note-Taker, user can run...
 npm start
 ```
 in 'Challenge-repo-11' root terminal
+###### Walkthrough Below 👇🏻👇🏻👇🏻
+https://user-images.githubusercontent.com/109780961/202317559-b84500f5-dc5f-46e3-b744-e8588ab44843.mp4
 
 ### Bugs
-* Missing wind in 5 day forecast (at time of submission)---acceptance criteria
-* Does not adjust to queried city local time
-* Certain _common city_ names wont be directly accessible to the user, as they are spelled too similarly. (Nashville, Tennessee and Nashville, Indiana)
 
 ### Extra add-ons
-
 ###### I enjoy adding quality of life (qol) functions to assignments, time permitting. Unfortunately, I didn't have time to bring them to life on this assignment.
-
+* Automatic list templates
+* Date/Time stamps
+* 'Preview' cards for each note to see a snippit of what it contains.
 
 ### Final thoughts
+This application showcases how simple it is to utilize things like _Node_ and _express_ to create a server and be able to perform CRUD actions. Express is a very usefull Node function. I haven't fully grasped it's useages, I'm currently trying to learn MySQL. 
 
-###### Biggest struggle
+###### Biggest struggle 
+By far learning and using Heroku, I'm not sure where to even start. I've gotten progressivly better with it but still behind. I can't stress enough how much fundational knowlege helps while learning new node modules and thier proper usages.
 
 
 
-Link to site: 
+Link to site: http://localhost:3001/
 
 ### Thanks to:
 * Richard Martin
