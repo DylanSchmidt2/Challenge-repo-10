@@ -40,7 +40,8 @@ This application showcases how simple it is to utilize things like _Node_ and _e
 ###### Biggest struggle 
 By far learning and using Heroku, I'm not sure where to even start. I've gotten progressivly better with it but still behind. I can't stress enough how much fundational knowlege helps while learning new node modules and thier proper usages.
 
-
+###### Extra-info
+You might notice some extra _commits_ in the log. I was forced to delete a existing project out of this repo because I entered incorrect links in my submission.
 
 Link to site: http://localhost:3001/
 
