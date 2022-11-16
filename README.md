@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/109780961/202317559-b84500f5-dc5f-46e3
 
 ### Extra add-ons
 ###### I enjoy adding quality of life (qol) functions to assignments, time permitting. Unfortunately, I didn't have time to bring them to life on this assignment.
-* Automatic list templates
+* Automatic list templates (Numbering 1, 2, 3, 4... )
 * Date/Time stamps
 * 'Preview' cards for each note to see a snippit of what it contains.
 
